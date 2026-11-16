@@ -1,0 +1,4 @@
+-keep class com.securelock.app.admin.** { *; }
+-keep class com.securelock.app.service.** { *; }
+-keep class com.securelock.app.receiver.** { *; }
+-keep class com.securelock.app.security.** { *; }
